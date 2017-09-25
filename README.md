@@ -1,9 +1,18 @@
 # Your App and the REST of the World
 
-
+This presentation is a broad overview of networking, internet
+protocols, HTTP requests and REST intended to introduce new developers
+to the complexities behind interacting with internet services in their
+applications.
 
 ### Topics include
 
+- The 7-Layer OSI Model
+- Internet Application protocols
+- The Anatomy of HTTP requests
+- Definition of an API
+- REST architecture
+- REST best practices
 
 ### Usage
 
